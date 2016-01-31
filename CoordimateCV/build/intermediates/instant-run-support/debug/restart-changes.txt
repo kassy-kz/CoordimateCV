@@ -1,0 +1,4 @@
+/Users/kashimoto/Documents/workspace/CoordimateCV/CoordimateCV/build/intermediates/transforms/instantRun/debug/folders/1/1/main/orz/kassy/CoordimateCV/Main2Activity$MySeekBarListener.class
+/Users/kashimoto/Documents/workspace/CoordimateCV/CoordimateCV/build/intermediates/transforms/instantRun/debug/folders/1/1/main/orz/kassy/CoordimateCV/MainActivity.class
+/Users/kashimoto/Documents/workspace/CoordimateCV/CoordimateCV/build/intermediates/transforms/instantRun/debug/folders/1/1/main/orz/kassy/CoordimateCV/Main2Activity.class
+/Users/kashimoto/Documents/workspace/CoordimateCV/CoordimateCV/build/intermediates/transforms/instantRun/debug/folders/1/1/main/orz/kassy/CoordimateCV/MainActivity$MySeekBarListener.class
